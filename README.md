@@ -25,7 +25,7 @@
 
 - 🤓 Always `learning new things`
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://github.com/nagacharankumarreddy/my-portfolio)
+- 👨‍💻 All of my projects are available at my [portfolio](nagacharankumarreddy.github.io/my-portfolio/)
 
 
 - 💬  Ask me anything ,
