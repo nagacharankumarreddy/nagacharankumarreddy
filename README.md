@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Front-end developer
 
-- 🔭 I’m currently working in <a href="https://www.wipro.com/" target="blank">Wipro Technologies</a>
+- 🔭 I’m currently working in <a href="[https://www.wipro.com](https://berkadia.com/india/)/](https://berkadia.com/india/)" target="blank">Berkadia Services India Private Limited</a>
 
 - 🌱 I’m currently Working on Reactjs
 
