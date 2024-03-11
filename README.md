@@ -27,13 +27,6 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://nagacharankumarreddy.github.io/my-portfolio/)
 
-
-- 💬  Ask me anything ,
-<br>&nbsp;&nbsp;&nbsp;&nbsp;if(I know answer && I am alive ) <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;{ <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console.log("I will answer within seconds😉");
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;}
-
 - Outside tech,📽 watching movies, 🎵 listen to music, and 🌴 explore nature outdoors,part time farming .
 
 - 📫 How to reach me **nagacharankumarreddy@gmail.com**
