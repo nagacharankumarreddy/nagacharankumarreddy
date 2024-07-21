@@ -79,7 +79,7 @@
 
 
 <br>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagacharankumarreddy&theme=vue">
 <img src="https://github-profile-trophy.vercel.app/?username=nagacharankumarreddy">
 
 
