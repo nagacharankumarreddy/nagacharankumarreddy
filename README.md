@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full Stack developer
 
 - 🔭 I’m currently working in <a href="[https://www.wipro.com](https://berkadia.com/india/)/](https://berkadia.com/india/)" target="blank">Berkadia Services India Private Limited</a>
 
-- 🌱 I’m currently Working on Reactjs
+- 🌱 I’m currently Working on Javascript, Reactjs, Redux, NodeJs, MySQL, Elastic Search
 
 - 🤓 Always `learning new things`
 
